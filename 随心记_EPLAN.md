@@ -480,8 +480,6 @@ ctrl+c--->到目标页--->ctrl+v--->调整角度--->左键放置--->调整文字
 
 ![image-20260708153338595](随心记_EPLAN.assets/image-20260708153338595.png)
 
-###### 用PLC数据编号
-
 ###### 总览图宽度
 
 ###### 删除放置
@@ -536,6 +534,8 @@ https://www.bilibili.com/video/BV1tH2RBSEGy/?spm_id_from=333.337.search-card.all
 
 ###### 按钮功能分配
 
+![fbe29a9cd0ad3cfbbbeb57a92be8f172](F:\笔记\随心记_EPLAN.assets\fbe29a9cd0ad3cfbbbeb57a92be8f172.png)
+
 ![image-20260708153746798](随心记_EPLAN.assets/image-20260708153746798.png)
 
 ###### 光栅/机械限位/电磁阀分配
@@ -558,6 +558,10 @@ https://www.bilibili.com/video/BV1tH2RBSEGy/?spm_id_from=333.337.search-card.all
 
 ![image-20260708154344613](随心记_EPLAN.assets/image-20260708154344613.png)
 
+###### 用PLC数据编号
+
+![image-20260713144000326](F:\笔记\随心记_EPLAN.assets\image-20260713144000326.png)
+
 # 部件的创建/导入/排序
 
 # 箱柜的设计
@@ -570,6 +574,12 @@ https://www.bilibili.com/video/BV1Ni421Q7XW?spm_id_from=333.788.videopod.episode
 
 
 
+###### 部件的排序
+
+![image-20260713164522604](F:\笔记\随心记_EPLAN.assets\image-20260713164522604.png)
+
+
+
 ###### 1.标准封面
 
 参考模板
@@ -578,11 +588,17 @@ https://www.bilibili.com/video/BV1Ni421Q7XW?spm_id_from=333.788.videopod.episode
 
 ![image-20260708174606424](随心记_EPLAN.assets/image-20260708174606424.png)
 
-###### 3.电柜模型视图布局
+###### 3.电柜模型视图布局  插入->图形->模型视图
+
+![image-20260713172754926](F:\笔记\随心记_EPLAN.assets\image-20260713172754926.png)
+
+
 
 ![image-20260708174150757](随心记_EPLAN.assets/image-20260708174150757.png)
 
 ![image-20260708174237899](随心记_EPLAN.assets/image-20260708174237899.png)
+
+![image-20260713175434521](F:\笔记\随心记_EPLAN.assets\image-20260713175434521.png)
 
 ###### 4.电路安装板布局
 
@@ -596,3 +612,28 @@ https://www.bilibili.com/video/BV1Ni421Q7XW?spm_id_from=333.788.videopod.episode
 
 ![image-20260708181323252](随心记_EPLAN.assets/image-20260708181323252.png)
 
+###### 端子的位置
+
+进出电柜的电需要连接端子
+
+###### 电机位置
+
+![image-20260713175959896](F:\笔记\随心记_EPLAN.assets\image-20260713175959896.png)
+
+###### 线号标注
+
+![image-20260713184843645](F:\笔记\随心记_EPLAN.assets\image-20260713184843645.png)
+
+###### 可以把线号导出来,方便线号机打号
+
+![image-20260713184809481](F:\笔记\随心记_EPLAN.assets\image-20260713184809481.png)
+
+###### 连接定义点
+
+插入->连接定义点
+
+如果不显示,摁住backspace键,选择有颜色的图标
+
+可以选择线径等
+
+# 2026-07-13 一阶段结束
